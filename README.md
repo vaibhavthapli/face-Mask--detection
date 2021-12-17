@@ -8,7 +8,8 @@
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
 <pre>
-python -m venv tfod
+python -m venv tfod #window
+virtualenv tfod #Linux
 </pre> 
 <br/>
 <b>Step 3.</b> Activate your virtual environment
