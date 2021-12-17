@@ -1,6 +1,6 @@
 # Tensorflow Object Detection Walkthrough
 <p>This set of Notebooks provides a complete set of code to be able to train and leverage your own custom object detection model using the Tensorflow Object Detection API. This accompanies the Tensorflow Object Detection from scratch.
-<img src="https://github.com/vaibhavthapli/face-Mask--detection">
+<img src="IMG_20211217_124519.jpg">
 
 ## Steps
 <br />
