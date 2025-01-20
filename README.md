@@ -11,7 +11,7 @@
 python -m venv tfod #window
 virtualenv tfod #Linux
   or
-conda create -p (name) python==3.9
+conda create -p (name) python==3.9 -y
 </pre> 
 <br/>
 <b>Step 3.</b> Activate your virtual environment
